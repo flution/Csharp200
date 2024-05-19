@@ -1,0 +1,7 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A030_GroupSeparator\A030_GroupSeparator\bin\Debug\A030_GroupSeparator.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A030_GroupSeparator\A030_GroupSeparator\bin\Debug\A030_GroupSeparator.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A030_GroupSeparator\A030_GroupSeparator\bin\Debug\A030_GroupSeparator.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A030_GroupSeparator\A030_GroupSeparator\obj\Debug\A030_GroupSeparator.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A030_GroupSeparator\A030_GroupSeparator\obj\Debug\A030_GroupSeparator.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A030_GroupSeparator\A030_GroupSeparator\obj\Debug\A030_GroupSeparator.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A030_GroupSeparator\A030_GroupSeparator\obj\Debug\A030_GroupSeparator.pdb

@@ -1,0 +1,10 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\bin\Debug\A132_Label.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\bin\Debug\A132_Label.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\bin\Debug\A132_Label.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\obj\Debug\A132_Label.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\obj\Debug\A132_Label.Form1.resources
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\obj\Debug\A132_Label.Properties.Resources.resources
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\obj\Debug\A132_Label.csproj.GenerateResource.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\obj\Debug\A132_Label.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\obj\Debug\A132_Label.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A132_Label\obj\Debug\A132_Label.pdb

@@ -1,0 +1,9 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\bin\Debug\A129_FormClass.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\bin\Debug\A129_FormClass.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\bin\Debug\A129_FormClass.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\obj\Debug\A129_FormClass.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\obj\Debug\A129_FormClass.Properties.Resources.resources
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\obj\Debug\A129_FormClass.csproj.GenerateResource.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\obj\Debug\A129_FormClass.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\obj\Debug\A129_FormClass.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A129_FormClass\obj\Debug\A129_FormClass.pdb

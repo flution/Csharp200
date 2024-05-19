@@ -1,0 +1,7 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A027_StringConcat\A027_StringConcat\bin\Debug\A027_StringConcat.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A027_StringConcat\A027_StringConcat\bin\Debug\A027_StringConcat.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A027_StringConcat\A027_StringConcat\bin\Debug\A027_StringConcat.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.pdb

@@ -1,0 +1,7 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A025_StringMethods\A025_StringMethods\A025_StringMethods\bin\Debug\A025_StringMethods.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A025_StringMethods\A025_StringMethods\A025_StringMethods\bin\Debug\A025_StringMethods.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A025_StringMethods\A025_StringMethods\A025_StringMethods\bin\Debug\A025_StringMethods.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A025_StringMethods\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A025_StringMethods\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A025_StringMethods\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A025_StringMethods\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.pdb

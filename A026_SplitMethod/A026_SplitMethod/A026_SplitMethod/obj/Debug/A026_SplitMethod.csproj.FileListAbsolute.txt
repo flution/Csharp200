@@ -1,0 +1,7 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A026_SplitMethod\A026_SplitMethod\A026_SplitMethod\bin\Debug\A026_SplitMethod.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A026_SplitMethod\A026_SplitMethod\A026_SplitMethod\bin\Debug\A026_SplitMethod.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A026_SplitMethod\A026_SplitMethod\A026_SplitMethod\bin\Debug\A026_SplitMethod.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A026_SplitMethod\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A026_SplitMethod\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A026_SplitMethod\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A026_SplitMethod\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.pdb

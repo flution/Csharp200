@@ -1,0 +1,7 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A028_StringContains\A028_StringContains\bin\Debug\A028_StringContains.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A028_StringContains\A028_StringContains\bin\Debug\A028_StringContains.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A028_StringContains\A028_StringContains\bin\Debug\A028_StringContains.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.pdb

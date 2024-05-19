@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp_Practice\\CSharp200\\gwansoon\\A019_Overflow\\A019_Overflow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3944A3F0-BEE2-4FEE-A247-145AEDE90A5F}|A019_Overflow\\A019_Overflow.csproj|d:\\csharp_practice\\csharp200\\gwansoon\\a019_overflow\\a019_overflow\\a019_overflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3944A3F0-BEE2-4FEE-A247-145AEDE90A5F}|A019_Overflow\\A019_Overflow.csproj|solutionrelative:a019_overflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp_Practice\\CSharp200\\gwansoon\\A019_Overflow\\A019_Overflow\\A019_Overflow\\Program.cs",
+              "RelativeDocumentMoniker": "A019_Overflow\\Program.cs",
+              "ToolTip": "D:\\Csharp_Practice\\CSharp200\\gwansoon\\A019_Overflow\\A019_Overflow\\A019_Overflow\\Program.cs",
+              "RelativeToolTip": "A019_Overflow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:33:28.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp_Practice\\CSharp200\\gwansoon\\A013_TypeConversion\\A013_TypeConversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC47723A-5169-47A2-8E9F-5DAD55743988}|A013_TypeConversion\\A013_TypeConversion.csproj|d:\\csharp_practice\\csharp200\\gwansoon\\a013_typeconversion\\a013_typeconversion\\a013_typeconversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC47723A-5169-47A2-8E9F-5DAD55743988}|A013_TypeConversion\\A013_TypeConversion.csproj|solutionrelative:a013_typeconversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp_Practice\\CSharp200\\gwansoon\\A013_TypeConversion\\A013_TypeConversion\\A013_TypeConversion\\Program.cs",
+              "RelativeDocumentMoniker": "A013_TypeConversion\\Program.cs",
+              "ToolTip": "D:\\Csharp_Practice\\CSharp200\\gwansoon\\A013_TypeConversion\\A013_TypeConversion\\A013_TypeConversion\\Program.cs",
+              "RelativeToolTip": "A013_TypeConversion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:03:43.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

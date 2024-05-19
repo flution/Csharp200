@@ -1,0 +1,10 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\bin\Debug\A130_MessageBox.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\bin\Debug\A130_MessageBox.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\bin\Debug\A130_MessageBox.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\obj\Debug\A130_MessageBox.Form1.resources
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\obj\Debug\A130_MessageBox.Properties.Resources.resources
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.GenerateResource.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\obj\Debug\A130_MessageBox.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A130_MessageBox\obj\Debug\A130_MessageBox.pdb

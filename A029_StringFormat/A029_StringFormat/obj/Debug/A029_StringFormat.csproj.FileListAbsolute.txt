@@ -1,0 +1,7 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A029_StringFormat\A029_StringFormat\bin\Debug\A029_StringFormat.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A029_StringFormat\A029_StringFormat\bin\Debug\A029_StringFormat.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A029_StringFormat\A029_StringFormat\bin\Debug\A029_StringFormat.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A029_StringFormat\A029_StringFormat\obj\Debug\A029_StringFormat.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A029_StringFormat\A029_StringFormat\obj\Debug\A029_StringFormat.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A029_StringFormat\A029_StringFormat\obj\Debug\A029_StringFormat.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A029_StringFormat\A029_StringFormat\obj\Debug\A029_StringFormat.pdb

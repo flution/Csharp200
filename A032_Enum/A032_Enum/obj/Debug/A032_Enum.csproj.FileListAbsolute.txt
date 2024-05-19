@@ -1,0 +1,7 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A032_Enum\A032_Enum\bin\Debug\A032_Enum.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A032_Enum\A032_Enum\bin\Debug\A032_Enum.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A032_Enum\A032_Enum\bin\Debug\A032_Enum.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A032_Enum\A032_Enum\obj\Debug\A032_Enum.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A032_Enum\A032_Enum\obj\Debug\A032_Enum.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A032_Enum\A032_Enum\obj\Debug\A032_Enum.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A032_Enum\A032_Enum\obj\Debug\A032_Enum.pdb

@@ -1,0 +1,10 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\bin\Debug\A131_BasicControls.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\bin\Debug\A131_BasicControls.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\bin\Debug\A131_BasicControls.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\obj\Debug\A131_BasicControls.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\obj\Debug\A131_BasicControls.Form1.resources
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\obj\Debug\A131_BasicControls.Properties.Resources.resources
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\obj\Debug\A131_BasicControls.csproj.GenerateResource.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\obj\Debug\A131_BasicControls.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\obj\Debug\A131_BasicControls.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A131_BasicControls\obj\Debug\A131_BasicControls.pdb

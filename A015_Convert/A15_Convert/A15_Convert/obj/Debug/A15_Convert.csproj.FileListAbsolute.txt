@@ -1,0 +1,7 @@
+D:\Csharp_Practice\CSharp200\gwansoon\A015_Convert\A15_Convert\A15_Convert\bin\Debug\A15_Convert.exe.config
+D:\Csharp_Practice\CSharp200\gwansoon\A015_Convert\A15_Convert\A15_Convert\bin\Debug\A15_Convert.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A015_Convert\A15_Convert\A15_Convert\bin\Debug\A15_Convert.pdb
+D:\Csharp_Practice\CSharp200\gwansoon\A015_Convert\A15_Convert\A15_Convert\obj\Debug\A15_Convert.csproj.AssemblyReference.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A015_Convert\A15_Convert\A15_Convert\obj\Debug\A15_Convert.csproj.CoreCompileInputs.cache
+D:\Csharp_Practice\CSharp200\gwansoon\A015_Convert\A15_Convert\A15_Convert\obj\Debug\A15_Convert.exe
+D:\Csharp_Practice\CSharp200\gwansoon\A015_Convert\A15_Convert\A15_Convert\obj\Debug\A15_Convert.pdb
